@@ -1,6 +1,6 @@
 # Dicee
 
-# Seção 2 - Bootcamp iOS udemy 
+# Seção 3-4 - Bootcamp iOS udemy 
 #### (https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/17076458?start=1#overview)
 
 ## Objetivo:
