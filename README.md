@@ -36,3 +36,7 @@
 - App desenvolvido em aula 
 
 <img width="362" alt="Captura de Tela 2022-01-13 às 11 26 12" src="https://user-images.githubusercontent.com/70922620/149351914-c433a359-a800-4035-8844-15876c2e3557.png">
+
+## Seção 6 - Commit Adicionando as Constraints.
+
+<img width="660" alt="Captura de Tela 2022-01-19 às 14 48 39" src="https://user-images.githubusercontent.com/70922620/150190348-b551dc4f-d32d-455b-93f8-f3bec13486fe.png">
